@@ -27,6 +27,8 @@
 
 ###
 
+---
+
 <h3 align="left">⚙️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜</h3>
 
 ###
@@ -45,6 +47,8 @@
 
 ###
 
+---
+
 <h3 align="left">🌐 𝙼𝚢 𝚂𝚝𝚊𝚝𝚜</h3>
 
 ###
@@ -54,6 +58,8 @@
 </div>
 
 ###
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaN-code01/NaN-code01/output/pacman-contribution-graph-dark.svg">
